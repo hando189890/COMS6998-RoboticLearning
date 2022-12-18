@@ -11,3 +11,6 @@ In this project, we focused on using pre-trained visual feature representation t
 ## Links
 - Github: [https://github.com/hando189890/COMS6998-RoboticLearning]
 - Proposal Presentation: [https://docs.google.com/presentation/d/16yrecPwV0sc78Oomdbf7-cbnX27SWhLsZEzHpCaf-LU/edit#slide=id.g16953bd4e93_0_6]
+- Cornell Grasp Dataset: https://www.kaggle.com/datasets/oneoneliu/cornell-grasp
+
+
